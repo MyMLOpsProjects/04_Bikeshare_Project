@@ -28,7 +28,7 @@ list_of_dir_and_files = [
     f"{project_name}_project/MANIFEST.in",
     f"{project_name}_project/mypy.ini",
     f"{project_name}_project/pyproject.toml",
-    f"{project_name}_project/setup.py"
+    f"{project_name}_project/setup.py",
 ]
 
 for filepath in list_of_dir_and_files:
